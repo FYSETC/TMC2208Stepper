@@ -1,0 +1,62 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\arduino-1.8.5\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\George\\AppData\\Local\\Arduino15\\packages\\rambo\\hardware\\avr\\1.0.1\\variants\\rambo"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\TMC2208Stepper\\examples\\output\\sketch\\TMC2208_Simple.ino.cpp",
+    "Include": "TMC2208Stepper.h",
+    "Includepath": "D:\\Documents\\Arduino\\libraries\\TMC2208Stepper\\src"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\TMC2208Stepper\\examples\\output\\sketch\\TMC2208_Simple.ino.cpp",
+    "Include": "SoftwareSerial.h",
+    "Includepath": "D:\\Documents\\Arduino\\libraries\\SoftwareSerial\\src"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\TMC2208Stepper\\examples\\output\\sketch\\TMC2208_Simple.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\TMC2208Stepper\\src\\source\\TMC2208Stepper.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\TMC2208Stepper\\src\\source\\TMC2208Stepper_CHOPCONF.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\TMC2208Stepper\\src\\source\\TMC2208Stepper_DRVSTATUS.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\TMC2208Stepper\\src\\source\\TMC2208Stepper_GCONF.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\TMC2208Stepper\\src\\source\\TMC2208Stepper_OTP_READ.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\TMC2208Stepper\\src\\source\\TMC2208Stepper_PWMCONF.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\SoftwareSerial\\src\\SoftwareSerial.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
