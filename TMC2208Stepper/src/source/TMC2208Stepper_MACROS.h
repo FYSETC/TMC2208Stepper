@@ -2,7 +2,6 @@
 #define TMC2208Stepper_MACROS_H
 #include "TMC2208Stepper.h"
 #include "../TMC2208Stepper_REGDEFS.h"
-#include "D:\Documents\Arduino\projects\Marlin-1.1.x _fys\Marlin\serial.h"
 
 #define REGISTER_W(R) sendDatagram(TMC2208_WRITE|REG_##R, R##_sr);
 #define REGISTER_R(R) bool b = sendDatagram(TMC2208_READ|REG_##R, data); R##_sr = *data; return b;
